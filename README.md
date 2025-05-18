@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Max Schneeberger
 
-<!--
-**maxschneeberger/maxschneeberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc student in **Applied Geoinformatics** at the University of Salzburg  
+💻 Soon-to-be **Junior Developer** @ [Spatial Focus](https://www.spatial-focus.net/)  
+🧠 Passionate about **software engineering**, **mathematics**, and their intersection with **geospatial analysis**  
+📍 Currently exploring the integration of **GeoAI** with **agent-based modeling** in my master thesis  
+🤸 Also: lifelong **sports enthusiast**
+  
+---  
+  
+### 🚀 Featured Projects
 
-Here are some ideas to get you started:
+- 🛰️ [Hydrology ArcGIS Pro Toolbox (python)](https://github.com/maxschneeberger/hydrology-arcgispro-pythontoolbox)  
+- 📊 [K-Means Clustering of Austrian Municipalities (python)](https://github.com/maxschneeberger/kmeans-clustering-municipalities)  
+- 🧪 [Spatial Simulation of Sheperd Dogs herding Sheep (GAMA/GAML)](https://github.com/maxschneeberger/gama-shepherd-dogs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
