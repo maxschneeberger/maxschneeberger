@@ -10,9 +10,9 @@
   
 ### 🚀 Featured Projects
 
-- 🌊 [Hydrology ArcGIS Pro Toolbox (python)](https://github.com/maxschneeberger/hydrology-arcgispro-pythontoolbox)  
-- 📊 [K-Means Clustering of Austrian Municipalities (python)](https://github.com/maxschneeberger/kmeans-clustering-municipalities)  
+- 🌊 [Hydrology ArcGIS Pro Toolbox (Python)](https://github.com/maxschneeberger/hydrology-arcgispro-pythontoolbox)  
+- 📊 [K-Means Clustering of Austrian Municipalities (Python)](https://github.com/maxschneeberger/kmeans-clustering-municipalities)  
 - 🐶 [Spatial Simulation of Sheperd Dogs herding Sheep (GAMA/GAML)](https://github.com/maxschneeberger/gama-shepherd-dogs)
-- 🕵️‍♀️ [Point Pattern Crime Analysis (python)](https://github.com/maxschneeberger/crime-analysis)
+- 🕵️‍♀️ [Point Pattern Crime Analysis (Python)](https://github.com/maxschneeberger/crime-analysis)
 - 🔥 [Wildfire Analysis (ArcGIS Pro)](https://github.com/maxschneeberger/wildfire-analysis)  
 
