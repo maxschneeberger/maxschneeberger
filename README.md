@@ -14,5 +14,5 @@
 - 📊 [K-Means Clustering of Austrian Municipalities (python)](https://github.com/maxschneeberger/kmeans-clustering-municipalities)  
 - 🐶 [Spatial Simulation of Sheperd Dogs herding Sheep (GAMA/GAML)](https://github.com/maxschneeberger/gama-shepherd-dogs)
 - 🕵️‍♀️ [Point Pattern Crime Analysis (python)](https://github.com/maxschneeberger/crime-analysis)
-- 🔥 [Wildfire Analysis (ArcGis Pro](https://github.com/maxschneeberger/wildfire-analysis)  
+- 🔥 [Wildfire Analysis (ArcGis Pro)](https://github.com/maxschneeberger/wildfire-analysis)  
 
