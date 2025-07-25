@@ -13,4 +13,5 @@
 - 🌊 [Hydrology ArcGIS Pro Toolbox (python)](https://github.com/maxschneeberger/hydrology-arcgispro-pythontoolbox)  
 - 📊 [K-Means Clustering of Austrian Municipalities (python)](https://github.com/maxschneeberger/kmeans-clustering-municipalities)  
 - 🐶 [Spatial Simulation of Sheperd Dogs herding Sheep (GAMA/GAML)](https://github.com/maxschneeberger/gama-shepherd-dogs)
+- 🕵️‍♀️ [Crime Analysis (python)](https://github.com/maxschneeberger/crime-analysis)
 
