@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Max Schneeberger
 
 🎓 MSc graduate in **Applied Geoinformatics** @ [University of Salzburg](https://www.plus.ac.at/?lang=en)  
-💻 **Junior Developer** @ [Spatial Focus](https://www.spatial-focus.net/)  
-🧠 Passionate about **software engineering**, **mathematics**, and their application in **geospatial problems**  
+💻 **Software Engineer** @ [Spatial Focus](https://www.spatial-focus.net/)  
+🧠 Passionate about **computer science**, **mathematics**, and their application in **geospatial problems**  
 🤸 Also: lifelong **sports enthusiast**
   
 ---  
