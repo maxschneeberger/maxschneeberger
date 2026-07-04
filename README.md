@@ -9,6 +9,7 @@
   
 ### 🚀 Featured Projects
 
+- 📝 [Master’s thesis - an ABM/GeoAI framework (Python)](https://github.com/maxschneeberger/master-thesis)
 - 🌊 [Hydrology ArcGIS Pro Toolbox (Python)](https://github.com/maxschneeberger/hydrology-arcgispro-pythontoolbox)  
 - 📊 [K-Means Clustering of Austrian Municipalities (Python)](https://github.com/maxschneeberger/kmeans-clustering-municipalities)  
 - 🐶 [Spatial Simulation of Sheperd Dogs herding Sheep (GAMA/GAML)](https://github.com/maxschneeberger/gama-shepherd-dogs)
